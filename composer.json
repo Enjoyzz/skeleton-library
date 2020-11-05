@@ -1,0 +1,23 @@
+{
+    "name": "enjoys/skeleton",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enjoys",
+            "email": "deadly.info@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Enjoys\\Skeleton\\": "src/"
+        }
+    },
+      "autoload-dev": {
+        "psr-4": {
+            "Tests\\Enjoys\\Skeleton\\": "tests/"
+        }
+    }
+}
